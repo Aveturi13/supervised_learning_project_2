@@ -1,0 +1,679 @@
+Run 1
+>> C = 0.1, parameter = 3.0
+>>>> Cross-validation Fold 1...Done!
+>>>> Cross-validation Fold 2...Done!
+>>>> Cross-validation Fold 3...Done!
+>>>> Cross-validation Fold 4...Done!
+>>>> Cross-validation Fold 5...Done!
+>> C = 1, parameter = 3.0
+>>>> Cross-validation Fold 1...Done!
+>>>> Cross-validation Fold 2...Done!
+>>>> Cross-validation Fold 3...Done!
+>>>> Cross-validation Fold 4...Done!
+>>>> Cross-validation Fold 5...Done!
+>> C = 10, parameter = 3.0
+>>>> Cross-validation Fold 1...Done!
+>>>> Cross-validation Fold 2...Done!
+>>>> Cross-validation Fold 3...Done!
+>>>> Cross-validation Fold 4...Done!
+>>>> Cross-validation Fold 5...Done!
+>> C = 100, parameter = 3.0
+>>>> Cross-validation Fold 1...Done!
+>>>> Cross-validation Fold 2...Done!
+>>>> Cross-validation Fold 3...Done!
+>>>> Cross-validation Fold 4...Done!
+>>>> Cross-validation Fold 5...Done!
+>> C = 1000, parameter = 3.0
+>>>> Cross-validation Fold 1...Done!
+>>>> Cross-validation Fold 2...Done!
+>>>> Cross-validation Fold 3...Done!
+>>>> Cross-validation Fold 4...Done!
+>>>> Cross-validation Fold 5...Done!
+
+Best model params : C = 3.0, p = 100...Training best model...Test Error = 0.020967741935483872
+
+Run 2
+>> C = 0.1, parameter = 3.0
+>>>> Cross-validation Fold 1...Done!
+>>>> Cross-validation Fold 2...Done!
+>>>> Cross-validation Fold 3...Done!
+>>>> Cross-validation Fold 4...Done!
+>>>> Cross-validation Fold 5...Done!
+>> C = 1, parameter = 3.0
+>>>> Cross-validation Fold 1...Done!
+>>>> Cross-validation Fold 2...Done!
+>>>> Cross-validation Fold 3...Done!
+>>>> Cross-validation Fold 4...Done!
+>>>> Cross-validation Fold 5...Done!
+>> C = 10, parameter = 3.0
+>>>> Cross-validation Fold 1...Done!
+>>>> Cross-validation Fold 2...Done!
+>>>> Cross-validation Fold 3...Done!
+>>>> Cross-validation Fold 4...Done!
+>>>> Cross-validation Fold 5...Done!
+>> C = 100, parameter = 3.0
+>>>> Cross-validation Fold 1...Done!
+>>>> Cross-validation Fold 2...Done!
+>>>> Cross-validation Fold 3...Done!
+>>>> Cross-validation Fold 4...Done!
+>>>> Cross-validation Fold 5...Done!
+>> C = 1000, parameter = 3.0
+>>>> Cross-validation Fold 1...Done!
+>>>> Cross-validation Fold 2...Done!
+>>>> Cross-validation Fold 3...Done!
+>>>> Cross-validation Fold 4...Done!
+>>>> Cross-validation Fold 5...Done!
+
+Best model params : C = 3.0, p = 1000...Training best model...Test Error = 0.01989247311827957
+
+Run 3
+>> C = 0.1, parameter = 3.0
+>>>> Cross-validation Fold 1...Done!
+>>>> Cross-validation Fold 2...Done!
+>>>> Cross-validation Fold 3...Done!
+>>>> Cross-validation Fold 4...Done!
+>>>> Cross-validation Fold 5...Done!
+>> C = 1, parameter = 3.0
+>>>> Cross-validation Fold 1...Done!
+>>>> Cross-validation Fold 2...Done!
+>>>> Cross-validation Fold 3...Done!
+>>>> Cross-validation Fold 4...Done!
+>>>> Cross-validation Fold 5...Done!
+>> C = 10, parameter = 3.0
+>>>> Cross-validation Fold 1...Done!
+>>>> Cross-validation Fold 2...Done!
+>>>> Cross-validation Fold 3...Done!
+>>>> Cross-validation Fold 4...Done!
+>>>> Cross-validation Fold 5...Done!
+>> C = 100, parameter = 3.0
+>>>> Cross-validation Fold 1...Done!
+>>>> Cross-validation Fold 2...Done!
+>>>> Cross-validation Fold 3...Done!
+>>>> Cross-validation Fold 4...Done!
+>>>> Cross-validation Fold 5...Done!
+>> C = 1000, parameter = 3.0
+>>>> Cross-validation Fold 1...Done!
+>>>> Cross-validation Fold 2...Done!
+>>>> Cross-validation Fold 3...Done!
+>>>> Cross-validation Fold 4...Done!
+>>>> Cross-validation Fold 5...Done!
+
+Best model params : C = 3.0, p = 10...Training best model...Test Error = 0.024193548387096774
+
+Run 4
+>> C = 0.1, parameter = 3.0
+>>>> Cross-validation Fold 1...Done!
+>>>> Cross-validation Fold 2...Done!
+>>>> Cross-validation Fold 3...Done!
+>>>> Cross-validation Fold 4...Done!
+>>>> Cross-validation Fold 5...Done!
+>> C = 1, parameter = 3.0
+>>>> Cross-validation Fold 1...Done!
+>>>> Cross-validation Fold 2...Done!
+>>>> Cross-validation Fold 3...Done!
+>>>> Cross-validation Fold 4...Done!
+>>>> Cross-validation Fold 5...Done!
+>> C = 10, parameter = 3.0
+>>>> Cross-validation Fold 1...Done!
+>>>> Cross-validation Fold 2...Done!
+>>>> Cross-validation Fold 3...Done!
+>>>> Cross-validation Fold 4...Done!
+>>>> Cross-validation Fold 5...Done!
+>> C = 100, parameter = 3.0
+>>>> Cross-validation Fold 1...Done!
+>>>> Cross-validation Fold 2...Done!
+>>>> Cross-validation Fold 3...Done!
+>>>> Cross-validation Fold 4...Done!
+>>>> Cross-validation Fold 5...Done!
+>> C = 1000, parameter = 3.0
+>>>> Cross-validation Fold 1...Done!
+>>>> Cross-validation Fold 2...Done!
+>>>> Cross-validation Fold 3...Done!
+>>>> Cross-validation Fold 4...Done!
+>>>> Cross-validation Fold 5...Done!
+
+Best model params : C = 3.0, p = 10...Training best model...Test Error = 0.01935483870967742
+
+Run 5
+>> C = 0.1, parameter = 3.0
+>>>> Cross-validation Fold 1...Done!
+>>>> Cross-validation Fold 2...Done!
+>>>> Cross-validation Fold 3...Done!
+>>>> Cross-validation Fold 4...Done!
+>>>> Cross-validation Fold 5...Done!
+>> C = 1, parameter = 3.0
+>>>> Cross-validation Fold 1...Done!
+>>>> Cross-validation Fold 2...Done!
+>>>> Cross-validation Fold 3...Done!
+>>>> Cross-validation Fold 4...Done!
+>>>> Cross-validation Fold 5...Done!
+>> C = 10, parameter = 3.0
+>>>> Cross-validation Fold 1...Done!
+>>>> Cross-validation Fold 2...Done!
+>>>> Cross-validation Fold 3...Done!
+>>>> Cross-validation Fold 4...Done!
+>>>> Cross-validation Fold 5...Done!
+>> C = 100, parameter = 3.0
+>>>> Cross-validation Fold 1...Done!
+>>>> Cross-validation Fold 2...Done!
+>>>> Cross-validation Fold 3...Done!
+>>>> Cross-validation Fold 4...Done!
+>>>> Cross-validation Fold 5...Done!
+>> C = 1000, parameter = 3.0
+>>>> Cross-validation Fold 1...Done!
+>>>> Cross-validation Fold 2...Done!
+>>>> Cross-validation Fold 3...Done!
+>>>> Cross-validation Fold 4...Done!
+>>>> Cross-validation Fold 5...Done!
+
+Best model params : C = 3.0, p = 100...Training best model...Test Error = 0.01989247311827957
+
+Run 6
+>> C = 0.1, parameter = 3.0
+>>>> Cross-validation Fold 1...Done!
+>>>> Cross-validation Fold 2...Done!
+>>>> Cross-validation Fold 3...Done!
+>>>> Cross-validation Fold 4...Done!
+>>>> Cross-validation Fold 5...Done!
+>> C = 1, parameter = 3.0
+>>>> Cross-validation Fold 1...Done!
+>>>> Cross-validation Fold 2...Done!
+>>>> Cross-validation Fold 3...Done!
+>>>> Cross-validation Fold 4...Done!
+>>>> Cross-validation Fold 5...Done!
+>> C = 10, parameter = 3.0
+>>>> Cross-validation Fold 1...Done!
+>>>> Cross-validation Fold 2...Done!
+>>>> Cross-validation Fold 3...Done!
+>>>> Cross-validation Fold 4...Done!
+>>>> Cross-validation Fold 5...Done!
+>> C = 100, parameter = 3.0
+>>>> Cross-validation Fold 1...Done!
+>>>> Cross-validation Fold 2...Done!
+>>>> Cross-validation Fold 3...Done!
+>>>> Cross-validation Fold 4...Done!
+>>>> Cross-validation Fold 5...Done!
+>> C = 1000, parameter = 3.0
+>>>> Cross-validation Fold 1...Done!
+>>>> Cross-validation Fold 2...Done!
+>>>> Cross-validation Fold 3...Done!
+>>>> Cross-validation Fold 4...Done!
+>>>> Cross-validation Fold 5...Done!
+
+Best model params : C = 3.0, p = 10...Training best model...Test Error = 0.02258064516129032
+
+Run 7
+>> C = 0.1, parameter = 3.0
+>>>> Cross-validation Fold 1...Done!
+>>>> Cross-validation Fold 2...Done!
+>>>> Cross-validation Fold 3...Done!
+>>>> Cross-validation Fold 4...Done!
+>>>> Cross-validation Fold 5...Done!
+>> C = 1, parameter = 3.0
+>>>> Cross-validation Fold 1...Done!
+>>>> Cross-validation Fold 2...Done!
+>>>> Cross-validation Fold 3...Done!
+>>>> Cross-validation Fold 4...Done!
+>>>> Cross-validation Fold 5...Done!
+>> C = 10, parameter = 3.0
+>>>> Cross-validation Fold 1...Done!
+>>>> Cross-validation Fold 2...Done!
+>>>> Cross-validation Fold 3...Done!
+>>>> Cross-validation Fold 4...Done!
+>>>> Cross-validation Fold 5...Done!
+>> C = 100, parameter = 3.0
+>>>> Cross-validation Fold 1...Done!
+>>>> Cross-validation Fold 2...Done!
+>>>> Cross-validation Fold 3...Done!
+>>>> Cross-validation Fold 4...Done!
+>>>> Cross-validation Fold 5...Done!
+>> C = 1000, parameter = 3.0
+>>>> Cross-validation Fold 1...Done!
+>>>> Cross-validation Fold 2...Done!
+>>>> Cross-validation Fold 3...Done!
+>>>> Cross-validation Fold 4...Done!
+>>>> Cross-validation Fold 5...Done!
+
+Best model params : C = 3.0, p = 10...Training best model...Test Error = 0.02258064516129032
+
+Run 8
+>> C = 0.1, parameter = 3.0
+>>>> Cross-validation Fold 1...Done!
+>>>> Cross-validation Fold 2...Done!
+>>>> Cross-validation Fold 3...Done!
+>>>> Cross-validation Fold 4...Done!
+>>>> Cross-validation Fold 5...Done!
+>> C = 1, parameter = 3.0
+>>>> Cross-validation Fold 1...Done!
+>>>> Cross-validation Fold 2...Done!
+>>>> Cross-validation Fold 3...Done!
+>>>> Cross-validation Fold 4...Done!
+>>>> Cross-validation Fold 5...Done!
+>> C = 10, parameter = 3.0
+>>>> Cross-validation Fold 1...Done!
+>>>> Cross-validation Fold 2...Done!
+>>>> Cross-validation Fold 3...Done!
+>>>> Cross-validation Fold 4...Done!
+>>>> Cross-validation Fold 5...Done!
+>> C = 100, parameter = 3.0
+>>>> Cross-validation Fold 1...Done!
+>>>> Cross-validation Fold 2...Done!
+>>>> Cross-validation Fold 3...Done!
+>>>> Cross-validation Fold 4...Done!
+>>>> Cross-validation Fold 5...Done!
+>> C = 1000, parameter = 3.0
+>>>> Cross-validation Fold 1...Done!
+>>>> Cross-validation Fold 2...Done!
+>>>> Cross-validation Fold 3...Done!
+>>>> Cross-validation Fold 4...Done!
+>>>> Cross-validation Fold 5...Done!
+
+Best model params : C = 3.0, p = 1000...Training best model...Test Error = 0.021505376344086023
+
+Run 9
+>> C = 0.1, parameter = 3.0
+>>>> Cross-validation Fold 1...Done!
+>>>> Cross-validation Fold 2...Done!
+>>>> Cross-validation Fold 3...Done!
+>>>> Cross-validation Fold 4...Done!
+>>>> Cross-validation Fold 5...Done!
+>> C = 1, parameter = 3.0
+>>>> Cross-validation Fold 1...Done!
+>>>> Cross-validation Fold 2...Done!
+>>>> Cross-validation Fold 3...Done!
+>>>> Cross-validation Fold 4...Done!
+>>>> Cross-validation Fold 5...Done!
+>> C = 10, parameter = 3.0
+>>>> Cross-validation Fold 1...Done!
+>>>> Cross-validation Fold 2...Done!
+>>>> Cross-validation Fold 3...Done!
+>>>> Cross-validation Fold 4...Done!
+>>>> Cross-validation Fold 5...Done!
+>> C = 100, parameter = 3.0
+>>>> Cross-validation Fold 1...Done!
+>>>> Cross-validation Fold 2...Done!
+>>>> Cross-validation Fold 3...Done!
+>>>> Cross-validation Fold 4...Done!
+>>>> Cross-validation Fold 5...Done!
+>> C = 1000, parameter = 3.0
+>>>> Cross-validation Fold 1...Done!
+>>>> Cross-validation Fold 2...Done!
+>>>> Cross-validation Fold 3...Done!
+>>>> Cross-validation Fold 4...Done!
+>>>> Cross-validation Fold 5...Done!
+
+Best model params : C = 3.0, p = 1000...Training best model...Test Error = 0.021505376344086023
+
+Run 10
+>> C = 0.1, parameter = 3.0
+>>>> Cross-validation Fold 1...Done!
+>>>> Cross-validation Fold 2...Done!
+>>>> Cross-validation Fold 3...Done!
+>>>> Cross-validation Fold 4...Done!
+>>>> Cross-validation Fold 5...Done!
+>> C = 1, parameter = 3.0
+>>>> Cross-validation Fold 1...Done!
+>>>> Cross-validation Fold 2...Done!
+>>>> Cross-validation Fold 3...Done!
+>>>> Cross-validation Fold 4...Done!
+>>>> Cross-validation Fold 5...Done!
+>> C = 10, parameter = 3.0
+>>>> Cross-validation Fold 1...Done!
+>>>> Cross-validation Fold 2...Done!
+>>>> Cross-validation Fold 3...Done!
+>>>> Cross-validation Fold 4...Done!
+>>>> Cross-validation Fold 5...Done!
+>> C = 100, parameter = 3.0
+>>>> Cross-validation Fold 1...Done!
+>>>> Cross-validation Fold 2...Done!
+>>>> Cross-validation Fold 3...Done!
+>>>> Cross-validation Fold 4...Done!
+>>>> Cross-validation Fold 5...Done!
+>> C = 1000, parameter = 3.0
+>>>> Cross-validation Fold 1...Done!
+>>>> Cross-validation Fold 2...Done!
+>>>> Cross-validation Fold 3...Done!
+>>>> Cross-validation Fold 4...Done!
+>>>> Cross-validation Fold 5...Done!
+
+Best model params : C = 3.0, p = 1000...Training best model...Test Error = 0.02258064516129032
+
+Run 11
+>> C = 0.1, parameter = 3.0
+>>>> Cross-validation Fold 1...Done!
+>>>> Cross-validation Fold 2...Done!
+>>>> Cross-validation Fold 3...Done!
+>>>> Cross-validation Fold 4...Done!
+>>>> Cross-validation Fold 5...Done!
+>> C = 1, parameter = 3.0
+>>>> Cross-validation Fold 1...Done!
+>>>> Cross-validation Fold 2...Done!
+>>>> Cross-validation Fold 3...Done!
+>>>> Cross-validation Fold 4...Done!
+>>>> Cross-validation Fold 5...Done!
+>> C = 10, parameter = 3.0
+>>>> Cross-validation Fold 1...Done!
+>>>> Cross-validation Fold 2...Done!
+>>>> Cross-validation Fold 3...Done!
+>>>> Cross-validation Fold 4...Done!
+>>>> Cross-validation Fold 5...Done!
+>> C = 100, parameter = 3.0
+>>>> Cross-validation Fold 1...Done!
+>>>> Cross-validation Fold 2...Done!
+>>>> Cross-validation Fold 3...Done!
+>>>> Cross-validation Fold 4...Done!
+>>>> Cross-validation Fold 5...Done!
+>> C = 1000, parameter = 3.0
+>>>> Cross-validation Fold 1...Done!
+>>>> Cross-validation Fold 2...Done!
+>>>> Cross-validation Fold 3...Done!
+>>>> Cross-validation Fold 4...Done!
+>>>> Cross-validation Fold 5...Done!
+
+Best model params : C = 3.0, p = 1000...Training best model...Test Error = 0.01989247311827957
+
+Run 12
+>> C = 0.1, parameter = 3.0
+>>>> Cross-validation Fold 1...Done!
+>>>> Cross-validation Fold 2...Done!
+>>>> Cross-validation Fold 3...Done!
+>>>> Cross-validation Fold 4...Done!
+>>>> Cross-validation Fold 5...Done!
+>> C = 1, parameter = 3.0
+>>>> Cross-validation Fold 1...Done!
+>>>> Cross-validation Fold 2...Done!
+>>>> Cross-validation Fold 3...Done!
+>>>> Cross-validation Fold 4...Done!
+>>>> Cross-validation Fold 5...Done!
+>> C = 10, parameter = 3.0
+>>>> Cross-validation Fold 1...Done!
+>>>> Cross-validation Fold 2...Done!
+>>>> Cross-validation Fold 3...Done!
+>>>> Cross-validation Fold 4...Done!
+>>>> Cross-validation Fold 5...Done!
+>> C = 100, parameter = 3.0
+>>>> Cross-validation Fold 1...Done!
+>>>> Cross-validation Fold 2...Done!
+>>>> Cross-validation Fold 3...Done!
+>>>> Cross-validation Fold 4...Done!
+>>>> Cross-validation Fold 5...Done!
+>> C = 1000, parameter = 3.0
+>>>> Cross-validation Fold 1...Done!
+>>>> Cross-validation Fold 2...Done!
+>>>> Cross-validation Fold 3...Done!
+>>>> Cross-validation Fold 4...Done!
+>>>> Cross-validation Fold 5...Done!
+
+Best model params : C = 3.0, p = 10...Training best model...Test Error = 0.025268817204301075
+
+Run 13
+>> C = 0.1, parameter = 3.0
+>>>> Cross-validation Fold 1...Done!
+>>>> Cross-validation Fold 2...Done!
+>>>> Cross-validation Fold 3...Done!
+>>>> Cross-validation Fold 4...Done!
+>>>> Cross-validation Fold 5...Done!
+>> C = 1, parameter = 3.0
+>>>> Cross-validation Fold 1...Done!
+>>>> Cross-validation Fold 2...Done!
+>>>> Cross-validation Fold 3...Done!
+>>>> Cross-validation Fold 4...Done!
+>>>> Cross-validation Fold 5...Done!
+>> C = 10, parameter = 3.0
+>>>> Cross-validation Fold 1...Done!
+>>>> Cross-validation Fold 2...Done!
+>>>> Cross-validation Fold 3...Done!
+>>>> Cross-validation Fold 4...Done!
+>>>> Cross-validation Fold 5...Done!
+>> C = 100, parameter = 3.0
+>>>> Cross-validation Fold 1...Done!
+>>>> Cross-validation Fold 2...Done!
+>>>> Cross-validation Fold 3...Done!
+>>>> Cross-validation Fold 4...Done!
+>>>> Cross-validation Fold 5...Done!
+>> C = 1000, parameter = 3.0
+>>>> Cross-validation Fold 1...Done!
+>>>> Cross-validation Fold 2...Done!
+>>>> Cross-validation Fold 3...Done!
+>>>> Cross-validation Fold 4...Done!
+>>>> Cross-validation Fold 5...Done!
+
+Best model params : C = 3.0, p = 10...Training best model...Test Error = 0.023118279569892472
+
+Run 14
+>> C = 0.1, parameter = 3.0
+>>>> Cross-validation Fold 1...Done!
+>>>> Cross-validation Fold 2...Done!
+>>>> Cross-validation Fold 3...Done!
+>>>> Cross-validation Fold 4...Done!
+>>>> Cross-validation Fold 5...Done!
+>> C = 1, parameter = 3.0
+>>>> Cross-validation Fold 1...Done!
+>>>> Cross-validation Fold 2...Done!
+>>>> Cross-validation Fold 3...Done!
+>>>> Cross-validation Fold 4...Done!
+>>>> Cross-validation Fold 5...Done!
+>> C = 10, parameter = 3.0
+>>>> Cross-validation Fold 1...Done!
+>>>> Cross-validation Fold 2...Done!
+>>>> Cross-validation Fold 3...Done!
+>>>> Cross-validation Fold 4...Done!
+>>>> Cross-validation Fold 5...Done!
+>> C = 100, parameter = 3.0
+>>>> Cross-validation Fold 1...Done!
+>>>> Cross-validation Fold 2...Done!
+>>>> Cross-validation Fold 3...Done!
+>>>> Cross-validation Fold 4...Done!
+>>>> Cross-validation Fold 5...Done!
+>> C = 1000, parameter = 3.0
+>>>> Cross-validation Fold 1...Done!
+>>>> Cross-validation Fold 2...Done!
+>>>> Cross-validation Fold 3...Done!
+>>>> Cross-validation Fold 4...Done!
+>>>> Cross-validation Fold 5...Done!
+
+Best model params : C = 3.0, p = 100...Training best model...Test Error = 0.020967741935483872
+
+Run 15
+>> C = 0.1, parameter = 3.0
+>>>> Cross-validation Fold 1...Done!
+>>>> Cross-validation Fold 2...Done!
+>>>> Cross-validation Fold 3...Done!
+>>>> Cross-validation Fold 4...Done!
+>>>> Cross-validation Fold 5...Done!
+>> C = 1, parameter = 3.0
+>>>> Cross-validation Fold 1...Done!
+>>>> Cross-validation Fold 2...Done!
+>>>> Cross-validation Fold 3...Done!
+>>>> Cross-validation Fold 4...Done!
+>>>> Cross-validation Fold 5...Done!
+>> C = 10, parameter = 3.0
+>>>> Cross-validation Fold 1...Done!
+>>>> Cross-validation Fold 2...Done!
+>>>> Cross-validation Fold 3...Done!
+>>>> Cross-validation Fold 4...Done!
+>>>> Cross-validation Fold 5...Done!
+>> C = 100, parameter = 3.0
+>>>> Cross-validation Fold 1...Done!
+>>>> Cross-validation Fold 2...Done!
+>>>> Cross-validation Fold 3...Done!
+>>>> Cross-validation Fold 4...Done!
+>>>> Cross-validation Fold 5...Done!
+>> C = 1000, parameter = 3.0
+>>>> Cross-validation Fold 1...Done!
+>>>> Cross-validation Fold 2...Done!
+>>>> Cross-validation Fold 3...Done!
+>>>> Cross-validation Fold 4...Done!
+>>>> Cross-validation Fold 5...Done!
+
+Best model params : C = 3.0, p = 100...Training best model...Test Error = 0.02204301075268817
+
+Run 16
+>> C = 0.1, parameter = 3.0
+>>>> Cross-validation Fold 1...Done!
+>>>> Cross-validation Fold 2...Done!
+>>>> Cross-validation Fold 3...Done!
+>>>> Cross-validation Fold 4...Done!
+>>>> Cross-validation Fold 5...Done!
+>> C = 1, parameter = 3.0
+>>>> Cross-validation Fold 1...Done!
+>>>> Cross-validation Fold 2...Done!
+>>>> Cross-validation Fold 3...Done!
+>>>> Cross-validation Fold 4...Done!
+>>>> Cross-validation Fold 5...Done!
+>> C = 10, parameter = 3.0
+>>>> Cross-validation Fold 1...Done!
+>>>> Cross-validation Fold 2...Done!
+>>>> Cross-validation Fold 3...Done!
+>>>> Cross-validation Fold 4...Done!
+>>>> Cross-validation Fold 5...Done!
+>> C = 100, parameter = 3.0
+>>>> Cross-validation Fold 1...Done!
+>>>> Cross-validation Fold 2...Done!
+>>>> Cross-validation Fold 3...Done!
+>>>> Cross-validation Fold 4...Done!
+>>>> Cross-validation Fold 5...Done!
+>> C = 1000, parameter = 3.0
+>>>> Cross-validation Fold 1...Done!
+>>>> Cross-validation Fold 2...Done!
+>>>> Cross-validation Fold 3...Done!
+>>>> Cross-validation Fold 4...Done!
+>>>> Cross-validation Fold 5...Done!
+
+Best model params : C = 3.0, p = 10...Training best model...Test Error = 0.02043010752688172
+
+Run 17
+>> C = 0.1, parameter = 3.0
+>>>> Cross-validation Fold 1...Done!
+>>>> Cross-validation Fold 2...Done!
+>>>> Cross-validation Fold 3...Done!
+>>>> Cross-validation Fold 4...Done!
+>>>> Cross-validation Fold 5...Done!
+>> C = 1, parameter = 3.0
+>>>> Cross-validation Fold 1...Done!
+>>>> Cross-validation Fold 2...Done!
+>>>> Cross-validation Fold 3...Done!
+>>>> Cross-validation Fold 4...Done!
+>>>> Cross-validation Fold 5...Done!
+>> C = 10, parameter = 3.0
+>>>> Cross-validation Fold 1...Done!
+>>>> Cross-validation Fold 2...Done!
+>>>> Cross-validation Fold 3...Done!
+>>>> Cross-validation Fold 4...Done!
+>>>> Cross-validation Fold 5...Done!
+>> C = 100, parameter = 3.0
+>>>> Cross-validation Fold 1...Done!
+>>>> Cross-validation Fold 2...Done!
+>>>> Cross-validation Fold 3...Done!
+>>>> Cross-validation Fold 4...Done!
+>>>> Cross-validation Fold 5...Done!
+>> C = 1000, parameter = 3.0
+>>>> Cross-validation Fold 1...Done!
+>>>> Cross-validation Fold 2...Done!
+>>>> Cross-validation Fold 3...Done!
+>>>> Cross-validation Fold 4...Done!
+>>>> Cross-validation Fold 5...Done!
+
+Best model params : C = 3.0, p = 10...Training best model...Test Error = 0.020967741935483872
+
+Run 18
+>> C = 0.1, parameter = 3.0
+>>>> Cross-validation Fold 1...Done!
+>>>> Cross-validation Fold 2...Done!
+>>>> Cross-validation Fold 3...Done!
+>>>> Cross-validation Fold 4...Done!
+>>>> Cross-validation Fold 5...Done!
+>> C = 1, parameter = 3.0
+>>>> Cross-validation Fold 1...Done!
+>>>> Cross-validation Fold 2...Done!
+>>>> Cross-validation Fold 3...Done!
+>>>> Cross-validation Fold 4...Done!
+>>>> Cross-validation Fold 5...Done!
+>> C = 10, parameter = 3.0
+>>>> Cross-validation Fold 1...Done!
+>>>> Cross-validation Fold 2...Done!
+>>>> Cross-validation Fold 3...Done!
+>>>> Cross-validation Fold 4...Done!
+>>>> Cross-validation Fold 5...Done!
+>> C = 100, parameter = 3.0
+>>>> Cross-validation Fold 1...Done!
+>>>> Cross-validation Fold 2...Done!
+>>>> Cross-validation Fold 3...Done!
+>>>> Cross-validation Fold 4...Done!
+>>>> Cross-validation Fold 5...Done!
+>> C = 1000, parameter = 3.0
+>>>> Cross-validation Fold 1...Done!
+>>>> Cross-validation Fold 2...Done!
+>>>> Cross-validation Fold 3...Done!
+>>>> Cross-validation Fold 4...Done!
+>>>> Cross-validation Fold 5...Done!
+
+Best model params : C = 3.0, p = 100...Training best model...Test Error = 0.01989247311827957
+
+Run 19
+>> C = 0.1, parameter = 3.0
+>>>> Cross-validation Fold 1...Done!
+>>>> Cross-validation Fold 2...Done!
+>>>> Cross-validation Fold 3...Done!
+>>>> Cross-validation Fold 4...Done!
+>>>> Cross-validation Fold 5...Done!
+>> C = 1, parameter = 3.0
+>>>> Cross-validation Fold 1...Done!
+>>>> Cross-validation Fold 2...Done!
+>>>> Cross-validation Fold 3...Done!
+>>>> Cross-validation Fold 4...Done!
+>>>> Cross-validation Fold 5...Done!
+>> C = 10, parameter = 3.0
+>>>> Cross-validation Fold 1...Done!
+>>>> Cross-validation Fold 2...Done!
+>>>> Cross-validation Fold 3...Done!
+>>>> Cross-validation Fold 4...Done!
+>>>> Cross-validation Fold 5...Done!
+>> C = 100, parameter = 3.0
+>>>> Cross-validation Fold 1...Done!
+>>>> Cross-validation Fold 2...Done!
+>>>> Cross-validation Fold 3...Done!
+>>>> Cross-validation Fold 4...Done!
+>>>> Cross-validation Fold 5...Done!
+>> C = 1000, parameter = 3.0
+>>>> Cross-validation Fold 1...Done!
+>>>> Cross-validation Fold 2...Done!
+>>>> Cross-validation Fold 3...Done!
+>>>> Cross-validation Fold 4...Done!
+>>>> Cross-validation Fold 5...Done!
+
+Best model params : C = 3.0, p = 100...Training best model...Test Error = 0.01881720430107527
+
+Run 20
+>> C = 0.1, parameter = 3.0
+>>>> Cross-validation Fold 1...Done!
+>>>> Cross-validation Fold 2...Done!
+>>>> Cross-validation Fold 3...Done!
+>>>> Cross-validation Fold 4...Done!
+>>>> Cross-validation Fold 5...Done!
+>> C = 1, parameter = 3.0
+>>>> Cross-validation Fold 1...Done!
+>>>> Cross-validation Fold 2...Done!
+>>>> Cross-validation Fold 3...Done!
+>>>> Cross-validation Fold 4...Done!
+>>>> Cross-validation Fold 5...Done!
+>> C = 10, parameter = 3.0
+>>>> Cross-validation Fold 1...Done!
+>>>> Cross-validation Fold 2...Done!
+>>>> Cross-validation Fold 3...Done!
+>>>> Cross-validation Fold 4...Done!
+>>>> Cross-validation Fold 5...Done!
+>> C = 100, parameter = 3.0
+>>>> Cross-validation Fold 1...Done!
+>>>> Cross-validation Fold 2...Done!
+>>>> Cross-validation Fold 3...Done!
+>>>> Cross-validation Fold 4...Done!
+>>>> Cross-validation Fold 5...Done!
+>> C = 1000, parameter = 3.0
+>>>> Cross-validation Fold 1...Done!
+>>>> Cross-validation Fold 2...Done!
+>>>> Cross-validation Fold 3...Done!
+>>>> Cross-validation Fold 4...Done!
+>>>> Cross-validation Fold 5...Done!
+
+Best model params : C = 3.0, p = 100...Training best model...Test Error = 0.020967741935483872
